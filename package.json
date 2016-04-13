@@ -20,7 +20,6 @@
     "@ftbl/authorize": "^1.1.1",
     "@ftbl/configuration": "^1.0.0",
     "@ftbl/errors": "^1.0.0",
-    "@ftbl/gulp": "^1.5.0",
     "@ftbl/log": "^1.0.0",
     "@ftbl/redis": "^1.0.0",
     "@ftbl/utility": "^1.0.0",
@@ -42,7 +41,7 @@
     "require-dir": "^0.3.0"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@ftbl/gulp": "^1.5.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
