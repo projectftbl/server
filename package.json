@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/server",
-  "version": "1.3.10",
+  "version": "1.3.11",
   "description": "Koa web server",
   "main": "node index",
   "scripts": {
