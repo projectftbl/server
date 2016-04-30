@@ -5,7 +5,7 @@ var should = require('chai').should()
 describe('Server', function() {
 	
   before(function() {
-    var sut = new Sut('kohl', __dirname + '/fixtures/apps');
+    var sut = new Sut('server', __dirname + '/fixtures/apps');
     
     sut.configure();
     
@@ -47,7 +47,7 @@ describe('Server', function() {
 describe('Server with multiple apps', function() {
 	
   before(function() {
-    var sut = new Sut('kohl', __dirname + '/fixtures/apps');
+    var sut = new Sut('server', __dirname + '/fixtures/apps');
     
     sut
     .configure()
