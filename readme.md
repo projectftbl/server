@@ -1,11 +1,11 @@
-## @ftbl/server
+## @recipher/server
 
 Server is a koa.js web server with sane defaults.
 
 ### Usage
 
 ```javascript
-var Server = require('@ftbl/server');
+var Server = require('@recipher/server');
 
 var server = new Server();
 
