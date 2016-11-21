@@ -1,6 +1,6 @@
 {
   "name": "@recipher/server",
-  "version": "1.3.30",
+  "version": "1.3.31",
   "description": "Koa web server",
   "main": "node index",
   "scripts": {
